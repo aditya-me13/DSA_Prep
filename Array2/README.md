@@ -4,4 +4,6 @@ Here are the problems and the solutions on the [Striver's SDE Sheet](https://tak
 
 You can also find the leetcode questions to the problems here: 
 1. Rotate Image : [Leetcode](https://leetcode.com/problems/rotate-image/)
+2.
+3. Merge Sorted Array : [Leetcode](https://leetcode.com/problems/merge-sorted-array/description/) 
 
