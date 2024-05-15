@@ -9,4 +9,4 @@ You can also find the leetcode questions to the problems here:
 3. Reverse a LinkedList in groups of size k. : [Leetcode](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 4. Palindrome Linked List : [Leetcode](https://leetcode.com/problems/palindrome-linked-list/description/)
 5. Start of a cycle in Linked List : [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/description/)
-6. Flattening a Linked List using down pointer : [Leetcode](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+6. Flattening a Linked List using down pointer : [GeekForGeeks](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1)
