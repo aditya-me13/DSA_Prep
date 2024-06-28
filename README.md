@@ -1,7 +1,7 @@
 ### Interview Prep Sheet
 ---
 
-This repo consists of my DSA solutions to the [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems) of top coding Interview problems.
+This repo consists of my DSA solutions to the [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems) of top coding Interview problems under ```Striver's Sheet``` folder.
 
 In Addition the Daily Coding Problems of LeetCode are also added under ```Daily Problems``` folder.
 
