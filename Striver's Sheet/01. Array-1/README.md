@@ -1,4 +1,4 @@
-## Array Part 1
+## 🎹 Array Part 1
 
 Here are the problems and the solutions on the [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems) 
 
