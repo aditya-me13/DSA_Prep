@@ -1,4 +1,4 @@
-## 0️⃣1️⃣ Binary Search
+## 🔍 Binary Search
 
 Here are the problems and the solutions on the [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems) 
 
