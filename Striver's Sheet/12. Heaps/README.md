@@ -1,4 +1,4 @@
-## 🧗 Heaps
+## :mountains: Heaps
 
 Here are the problems and the solutions on the [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
 
