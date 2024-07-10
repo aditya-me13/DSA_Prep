@@ -9,6 +9,8 @@ This Repo consists of solutions to all the problems that I solved during my DSA 
 
 - Solutions to LeetCode [Contests](https://leetcode.com/contest/) under ```LeetCode Contests``` folder.
 
+- Solutions to [NeetCode Blind 75](https://neetcode.io/practice) questions under ```NeetCode Blind 75``` folder.
+
 - Some miscellaneous problems for daily practice under ```Miscellaneous``` folder. 
 
 You can view my profiles on [Leetcode](https://leetcode.com/u/aditya-me13/) and [GeekforGeeks](https://www.geeksforgeeks.org/user/aditya_me13/) here.
