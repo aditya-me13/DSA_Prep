@@ -25,7 +25,7 @@ public:
         k = k%count;
         for(int i = 0; i < k ; i++){
             itr1 = itr1->next;
-           if(itr1 == NULL){
+            if(itr1 == NULL){
                 itr1 = head;
             }
         }
