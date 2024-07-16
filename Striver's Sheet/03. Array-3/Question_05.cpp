@@ -15,6 +15,7 @@ public:
         if(m == 1 && n == 1){
             return 1;
         }
+        // dp[i][j] indicates the number of ways to reach (i,j) from (0,0)
         vector<vector<int>> dp(m, vector<int>(n, -1));
         dp[0][0] = 1;
         return no_paths(dp, m-1, n-1); 
