@@ -1,6 +1,6 @@
 #include <algorithm>
 class Solution {
-  public:
+    public:
     // Function to get the maximum total value in the knapsack.
     double fractionalKnapsack(int W, Item arr[], int n)
     {
@@ -19,7 +19,7 @@ class Solution {
             }
             else{
                 ans += (static_cast<double>(arr[i].value)/arr[i].weight)*W;
-                W= 0;
+                W=0;
             }
             i++;
         }

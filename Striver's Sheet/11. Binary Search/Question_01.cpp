@@ -1,5 +1,3 @@
-#include<bits/stdc++.h>
-
 int NthRoot(int n, int m) {
 
     int low=1,high=m,mid;

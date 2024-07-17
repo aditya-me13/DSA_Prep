@@ -8,4 +8,4 @@ You can also find the questions to the problems here:
 3. Job Sequencing Problem : [GeekforGeeks](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
 4. Fractional Knapsack : [GeekforGeeks](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
 5. Greedy algorithm to find minimum number of coins : [GeekforGeeks Article](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
-6. Activity Selection : (Same as N meeting Rooms) [GeekforGeeks](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+6. Assign Cookies [LeetCode](https://leetcode.com/problems/assign-cookies/description/)
