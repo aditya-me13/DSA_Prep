@@ -10,11 +10,14 @@ public:
             return;
         }
 
+        // pick
         if(target >= nums[ind]){
             ss.push_back(nums[ind]);
             helper(ind, n, target - nums[ind], ss, nums, ans);
             ss.pop_back();
         }
+        
+        // not pick
         helper(ind + 1, n, target, ss, nums, ans);
     }
 

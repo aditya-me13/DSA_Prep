@@ -1,5 +1,5 @@
 class Solution {
-  public:
+    public:
     void SSsum(int ind, int sum, vector<int> arr, int n, vector<int> &SubsetSum){
         if(ind == n){
             SubsetSum.push_back(sum);

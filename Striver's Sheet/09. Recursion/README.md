@@ -8,4 +8,4 @@ You can also find the leetcode questions to the problems here:
 3. Combination Sum : [Leetcode](https://leetcode.com/problems/combination-sum/)
 4. Combination Sum 2 : [Leetcode](https://leetcode.com/problems/combination-sum-ii/)
 5. Palindrome Partitioning : [Leetcode](https://leetcode.com/problems/palindrome-partitioning/)
-6. Permutation Sequence : [Leetcode](https://leetcode.com/problems/permutation-sequence/description/)
+6. Kth Permutation Sequence : [Leetcode](https://leetcode.com/problems/permutation-sequence/description/)
